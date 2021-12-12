@@ -1,21 +1,21 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://karimali.ca # the base hostname & protocol for your site
+url: https://deepikachhillar.github.io/ # the base hostname & protocol for your site
 
 # User settings
-title: Karim Ali
-email: karim.ali@ualberta.ca
-group: The Maple Lab
-groupweb: https://github.com/themaplelab
-dept: Computing Science
-deptweb: https://cs.ualberta.ca
-institution: University of Alberta
-institutionweb: https://ualberta.ca
-address: ATH 3-42
-twitter: karimhamdanali
-github: karimhamdanali
+title: Deepika Chhillar
+email: deepika4@illinois.edu
+group: Organizational Theory & Strategy
+groupweb: https://giesbusiness.illinois.edu/profile/matthew-kraatz
+dept: Business Administration
+deptweb: https://giesbusiness.illinois.edu/graduate-hub/doctoral/business-administration
+institution: University of Illinois, Urbana-Champaign
+institutionweb: https://giesbusiness.illinois.edu/
+address: 1206 S. Sixth Champaign, IL 61820
+twitter: DeepikaChhillar
+github: deepikachhillar
 dblp: Ali_0001:Karim
-gscholar: TC8495oAAAAJ
+gscholar: EwBFJ68AAAAJ
 
 # Build settings
 markdown: kramdown
@@ -25,8 +25,8 @@ paginate_path: /news/page:num/
 excerpt_separator: <!--more-->
 
 # Site-wide variables
-keywords: program analysis, compiler, static analysis, java, scala, call graphs, averroes
-copyright: Copyright (c) Karim Ali
+keywords: organizational culture, machine learning, glassdoor, insitutional theory
+copyright: Copyright (c) Deepika Chhillar
 
 # Plugins
 plugins:
