@@ -5,7 +5,7 @@ weight: 1
 group: research
 ---
 
-Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. I am interested in developing and evaluating various program analysis techniques that can be used in practice by exploring three aspects: scalability, precision, and usability. My interests span programming languages, software systems, and software engineering.
+I am a doctoral student of Organizational Theory in Business Administration at the Gies College of Business, University of Illinois at Urbana-Champaign. I am currently in my fourth year of graduate studies. My research interests and active projects are three-fold: (a) organizational culture and it's influence on institutions (b) Innovation Ecosystems and (c) Digital Governance of AI and Big Data
 
 Below is a list of my current and inactive projects.
 
