@@ -5,7 +5,7 @@ weight: 1
 group: research
 ---
 
-I am a doctoral student of Organizational Theory and Strategy in Business Administration at the Gies College of Business, University of Illinois at Urbana-Champaign. I am currently in my fourth year of graduate studies. My research interests are three-fold: (a) Organizational Culture (b) Governance of AI and Big Data and (c) Innovation Ecosystems
+I am a doctoral student of Organizational Theory and Strategy in Business Administration at the Gies College of Business, University of Illinois at Urbana-Champaign. I am currently in my fourth year of graduate studies. My research interests are two-fold: (a) Organizational Culture, and (b) Governance of AI and Big Data.
 
 Below is a list of my current and inactive projects.
 
