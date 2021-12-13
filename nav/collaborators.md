@@ -18,7 +18,7 @@ group: students
  -->
 Below is a list of current and former research collaborators.
 
-### Current Collaborators
+<!-- ### Current Collaborators -->
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/matt_kraatz.jpg" |  prepend: site.baseurl }}" alt="Matthew Kraatz" />
 </figure>
