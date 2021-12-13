@@ -20,9 +20,10 @@ Below is a list of current and former research collaborators.
 
 ### Current Collaborators
 <figure>
-	<img style="display=inline-block" width="15%" src="{{ "/resources/images/matt_kraatz.png" |  prepend: site.baseurl }}" alt="The Maple Lab" />
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/matt_kraatz.png" |  prepend: site.baseurl }}" alt="The Maple Lab" />
 </figure>
-
+My advisor and my mentor, Prof. Matthew Kraatz is the Merle H. & Virginia Downs Boren Professor at the Gies College of Business at the University of Illinois, Urbana-Champaign. 
+Paper 
 {% assign current = site.data.maplers | where:"status","current" %}
 {% include maplers.html data=current %}
 
