@@ -37,6 +37,8 @@ National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge In
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/ruth_aguilera.jpg" |  prepend: site.baseurl }}" alt="Ruth Aguilera" />
 </figure>
+
+<span style="color: red;">text</span>.
 *Obi-Wan Kenobi*: My committee member, and my friend, philosopher and guide in tough times, **Prof. Ruth Aguilera** is the Distinguished Darla and Frederick Brodsky Trustee Professor in Global Business at the D’Amore-McKim School of Business. \
 **Affiliation**: Northeastern University\
 **Collaborative Work**: An Eye for AI: Insights into the Governance of Artificial Intelligence and Vision for Future Research\
