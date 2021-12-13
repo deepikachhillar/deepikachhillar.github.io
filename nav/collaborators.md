@@ -49,10 +49,10 @@ Taking time from his busy schedule as a lecturer at Sloan and a co-founder and c
 **Affiliation**: MIT\
 **Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
-Paper 
+<!-- Paper 
 {% assign current = site.data.maplers | where:"status","current" %}
 {% include maplers.html data=current %}
 
 ### Former Collaborators
 {% assign former = site.data.maplers | where:"status","former" %}
-{% include maplers.html data=former %}
+{% include maplers.html data=former %} -->
