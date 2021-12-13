@@ -22,7 +22,7 @@ Below is a list of current and former research collaborators.
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/matt_kraatz.jpg" |  prepend: site.baseurl }}" alt="Matthew Kraatz" />
 </figure>
-<span style="color: green;">*Yoda*</span>: My advisor and mentor, **Prof. Matthew Kraatz** is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
+<span style="color: green;">Yoda</span> My advisor and mentor, **Prof. Matthew Kraatz** is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
 **Affiliation**: University of Illinois, Urbana-Champaign.\
 **Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
