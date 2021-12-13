@@ -2,7 +2,7 @@
 layout: default
 title: Collaborators
 permalink: /collaborators/
-weight: 4
+weight: 2
 group: students
 ---
 
