@@ -6,9 +6,6 @@ weight: 2
 group: students
 ---
 
-<figure>
-	<img style="display=inline-block" width="15%" src="{{ "/resources/images/maple.png" |  prepend: site.baseurl }}" alt="The Maple Lab" />
-</figure>
 
 <!-- #Maplers are members of my research lab (Maple), including master's and doctoral students, as well as undergrad research assistants. I'm always looking for new students (on all levels) to expand my group.
 
@@ -22,6 +19,10 @@ group: students
 Below is a list of current and former research collaborators.
 
 ### Current Collaborators
+<figure>
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/matt_kraatz.png" |  prepend: site.baseurl }}" alt="The Maple Lab" />
+</figure>
+
 {% assign current = site.data.maplers | where:"status","current" %}
 {% include maplers.html data=current %}
 
