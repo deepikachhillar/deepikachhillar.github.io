@@ -5,7 +5,7 @@ permalink: /teaching/
 weight: 4
 group: teaching
 ---
-These are the courses that I regularly teach.
+I taught this course in Fall 2021.
 {% for course in site.data.courses %}
 <div class="row" name="{{ course.id }}">
   <div class="row-pic">
