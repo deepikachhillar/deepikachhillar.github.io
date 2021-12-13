@@ -5,13 +5,13 @@
 #   papers:
 #   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
-- name: SWAN
-  id: swan
-  start: 2017
-  members: tiganov,bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
-  papers: swan
-  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/CodeShield-Security/SPDS" target="_blank">SPDS</a> . The framework enables various deep static analyses, from finding API misuses using typestate analysis to detecting security vulnerabilities using taint analysis.
-
+- name: Glassdoor
+  id: glassdoor
+  start: 2019
+  members: geoff_love, don_sull, matt_kraatz
+  papers: glassdoor
+  description: Organizational culture is frequently identified as an important antecedent to wrongdoing by scholars as well as the popular media. However, organizational culture is not a monolithic entity, but is in fact, an amalgam of different elements (of shared expectations, assumptions, beliefs, and values 1) that influence actions. In this study, we investigate which elements of culture are most predictive of organizational wrongdoing. First, we use NLP to identify cultural norms and values from reviews posted on Glassdoor by employees of large public US-based firms. Then, we employ ML methods (combining XGboost and SHAP values) to identify cultural features that are the most salient predictors of deliberate financial wrongdoing. We find that organizations excessively favoring a culture of high workload, lacking the requisite resources (both human and capital), or having an unfriendly work environment, are more likely to engage in unethical behavior. Our paper aims to enhance our collective understanding of culture and wrongdoing literature in two main ways. First, we shed light on the values and norms that are essential in predicting fraudulent behavior, a link that, in our view, scholars have studied only limitedly. Secondly, by using ML techniques to understand cultural antecedents to wrongdoing, we aim to contribute to theory-building by algorithm-supported induction2.
+  
 - name: Just-in-Time Compilers
   id: jit
   github:
