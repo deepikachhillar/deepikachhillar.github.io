@@ -27,7 +27,7 @@ Affiliation: University of Illinois, Urbana-Champaign.
 Collaborative Work: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
 <figure>
-	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/geoff_love.jpg" |  prepend: site.baseurl }}" alt="Matthew Kraatz" />
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/geoff_love.jpg" |  prepend: site.baseurl }}" alt="Geoffrey Love" />
 </figure>
 My committee member and guide, Prof. Geoffrey Love is an Associate Professor at Gies College of Business. We have collaborated on several projects so far and I have learnt a great deal from Geoff's methodological expertise. 
 Affiliation: University of Illinois, Urbana-Champaign
