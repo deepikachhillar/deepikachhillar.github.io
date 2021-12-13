@@ -22,16 +22,16 @@ Below is a list of current and former research collaborators.
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/matt_kraatz.jpg" |  prepend: site.baseurl }}" alt="Matthew Kraatz" />
 </figure>
-My advisor and mentor, Prof. Matthew Kraatz is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
-Affiliation: University of Illinois, Urbana-Champaign.\
-Collaborative Work: Organizational Culture & Wrongdoing - A view through the Glassdoor
+My advisor and mentor, **Prof. Matthew Kraatz** is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
+**Affiliation**: University of Illinois, Urbana-Champaign.\
+**Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/geoff_love.jpg" |  prepend: site.baseurl }}" alt="Geoffrey Love" />
 </figure>
-My committee member and guide, Prof. Geoffrey Love is an Associate Professor at Gies College of Business. We have collaborated on several projects so far and I have learnt a great deal from Geoff's methodological expertise.\
-Affiliation: University of Illinois, Urbana-Champaign\
-Collaborative Work: Organizational Culture & Wrongdoing - A view through the Glassdoor\
+My committee member and guide, **Prof. Geoffrey Love** is an Associate Professor at Gies College of Business. We have collaborated on several projects so far and I have learnt a great deal from Geoff's methodological expertise.\
+**Affiliation**: University of Illinois, Urbana-Champaign\
+**Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor\
 National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge Infrastructure, and Firm Capabilities
 
 
