@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-weight: 4
+weight: 2
 group: teaching
 ---
 I taught this course in Fall 2021.
