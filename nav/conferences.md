@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Papers
-permalink: /papers/
+title: Conferences
+permalink: /conferences/
 weight: 3
 group: pubs
 ---
