@@ -43,9 +43,9 @@ National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge In
 **Collaborative Work**: An Eye for AI: Insights into the Governance of Artificial Intelligence and Vision for Future Research.
 
 <figure>
-	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/don_sull.jpg" |  prepend: site.baseurl }}" alt="Ruth Aguilera" />
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/don_sull.jpg" |  prepend: site.baseurl }}" alt="Donald Sull" />
 </figure>
-Taking time from his busy schedule as a lecturer at Sloan and a co-founder and consultant at CultureX,** Donald Sull** has been instrumental in shaping my dissertation.\
+Taking time from his busy schedule as a lecturer at Sloan and a co-founder and consultant at CultureX, **Donald Sull** has been instrumental in shaping my dissertation.\
 **Affiliation**: MIT\
 **Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
