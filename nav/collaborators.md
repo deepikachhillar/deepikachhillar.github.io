@@ -22,7 +22,7 @@ Below is a list of current and former research collaborators.
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/matt_kraatz.jpg" |  prepend: site.baseurl }}" alt="Matthew Kraatz" />
 </figure>
-<span style="color: green;">Yoda</span> My advisor and mentor, **Prof. Matthew Kraatz** is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
+<span style="color: green;">Yoda\</span> My advisor and mentor, **Prof. Matthew Kraatz** is the Merle H. & Virginia Downs Boren Professor at Gies College of Business.\
 **Affiliation**: University of Illinois, Urbana-Champaign.\
 **Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor
 
@@ -40,7 +40,7 @@ National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge In
 
 <span style="color: green;">*Obi-Wan Kenobi*</span>: My committee member, and my friend, philosopher and guide in tough times, **Prof. Ruth Aguilera** is the Distinguished Darla and Frederick Brodsky Trustee Professor in Global Business at the D’Amore-McKim School of Business. \
 **Affiliation**: Northeastern University\
-**Collaborative Work**: An Eye for AI: Insights into the Governance of Artificial Intelligence and Vision for Future Research\
+**Collaborative Work**: An Eye for AI: Insights into the Governance of Artificial Intelligence and Vision for Future Research. \
 
 Paper 
 {% assign current = site.data.maplers | where:"status","current" %}
