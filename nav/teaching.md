@@ -5,7 +5,7 @@ permalink: /teaching/
 weight: 2
 group: teaching
 ---
-I thoroughly enjoyed teaching this course in Fall 2021.
+I taught BADM 313, Strategic Human Resource Management in Fall 2021. My mid-term rating was 4.25 and I thoroughly enjoyed my discussions with the students. 
 {% for course in site.data.courses %}
 <div class="row" name="{{ course.id }}">
   <div class="row-pic">
