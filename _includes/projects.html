@@ -6,7 +6,8 @@
 	<div class="row-info">
     <h4>
 	    {{ project.name }} <a href="{{ project.link | default: "" }}"><span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span></a>
-	    <small>({% include /functions/getprojectmembers.html project=project %})</small>
+ 	    <small>({{project.collaborators}})</small> 
+<!-- 	    {% include /functions/getprojectmembers.html project=project %} -->
     </h4>
 		<p>
       {{ project.description }} {{ project.impact }}
