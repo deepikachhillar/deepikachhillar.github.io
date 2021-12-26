@@ -13,6 +13,7 @@ Below is a list of my current projects.
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
 
-### Inactive Projects
+<!-- ### Inactive Projects
 {% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %}
 {% include projects.html data=inactive %}
+ -->
