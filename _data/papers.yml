@@ -1,11 +1,11 @@
-- id: swan-acmqueue
-  title: "Designing UIs for Static Analysis Tools: Evaluating Tool Design Guidelines with SWAN"
-  authors: Lisa Nguyen Quang Do, Daniil Tiganov, and Karim Ali
-  venue: ACM Queue
+- id: glassdoor
+  title: "Organizational Culture and Wrongdoing - A view through the Glassdoor"
+  authors: Deepika Chhillar, Geoffrey Love, Donald Sull, and Matthew Kraatz
+  venue: Academy of Management (AoM)
   year: 2021
-  pages: 97--118
-  doi: https://doi.org/10.1145/3487019.3487026
-  code: https://github.com/themaplelab/swan
+#   pages: 97--118
+  doi: https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.12808symposium
+#   code: https://github.com/themaplelab/swan
 
 - id: hotfixer
   title: "Hotfixing Misuses of Crypto APIs in Java Programs"
