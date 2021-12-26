@@ -5,7 +5,7 @@
 	</div>
 	<div class="row-info">
     <h4>
-      {{ project.name }} <small>({{ project.link | default: "" }})</small>
+	    {{ project.name }} <a href="{{ project.link | default: "" }}">Link</a>
       {% include /functions/getprojectmembers.html project=project %}
     </h4>
 		<p>
