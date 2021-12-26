@@ -12,10 +12,3 @@ Below is a list of my current projects.
 ### Current Projects
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
-
- </div>
-    <div class="right">
-      <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
-        <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
-      </a>
- </div>
