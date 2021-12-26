@@ -8,6 +8,7 @@
 - name: Organizational Culture and Wrongdoing - A view through the Glassdoor
   id: glassdoor
   start: 2019
+  link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
 #   members: geoff_love, don_sull, matt_kraatz
 #   papers: glassdoor
   collaborators: Prof. Geoffrey Love, Prof. Donald Sull, & Prof. Matthew Kraatz
