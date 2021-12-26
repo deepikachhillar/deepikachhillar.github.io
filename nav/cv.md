@@ -12,6 +12,6 @@ I received my bachelors in computer science engineering and masters in economics
 
 Prior to that, I received my MMath degree at the University of Waterloo in 2010 when I was part of the Security Research Group led by [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca/index.html){:target="_blank"}.
  -->
-You can find my more detailed CV [here][cvpdf]{:target="_blank"}.
+You can find my CV [here][cvpdf]{:target="_blank"}.
 
 [cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
