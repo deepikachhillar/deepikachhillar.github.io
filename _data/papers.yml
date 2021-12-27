@@ -20,20 +20,22 @@
   year: 2020
   link: https://static1.squarespace.com/static/56eefd22859fd004540849e0/t/5fa58cb9bca7141c21b86f57/1604684987535/GSEM+Conference.pdf
 
-- id: governance_symposium
+- id: ai_symposium
   title: "Organizational Implications of Artificial Intelligence"
   authors: Ruth Aguilera, and Deepika Chhillar
   venue: Academy of Management (AoM)
   year: 2021
   link: https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.12567symposium
   
-- id: innovation
+- id: 
+# innovation
   title: "Innovation Ecosystems in Strategy Literature: Review and Synthesis."
   authors: Deepika Chhillar
   venue: Wharton Corporate Strategy and Innovation Conference, The Wharton School, Mack Institute for Innovation Management
   year: 2019
 
-- id: g20
+- id: 
+# g20
   title: "National Innovation Ecosystems in the G-20 Countries: A Longitudinal Comparative Study"
   authors: Joseph Cheng, Geoffrey Love, and Deepika Chhillar
   venue: Academy of Management (AoM)
