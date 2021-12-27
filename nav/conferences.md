@@ -24,6 +24,9 @@ group: pubs
       <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
         <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
       </a>
+      <a href="{{ paper.link }}" target="_blank">
+        <span class="icon"><svg><use xlink:href="#icon-link"/></svg></span>
+      </a>
       {% if paper.code %}
       <a href="{{ paper.code }}" target="_blank">
         <span class="icon"><svg><use xlink:href="#icon-github"/></svg></span>
