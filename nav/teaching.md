@@ -5,7 +5,14 @@ permalink: /teaching/
 weight: 2
 group: teaching
 ---
-I taught BADM 313, Strategic Human Resource Management in Fall 2021. My mid-term rating was 4.25 and I thoroughly enjoyed my discussions with the students. 
+I taught BADM 313, Strategic Human Resource Management in Fall 2021. My mid-term rating was 4.25 and I thoroughly enjoyed class discussions with the students. I have also been a **Teaching Assistant** for the following courses: 
+* *Leading and Managing Purpose-Driven Organizations* 
+              * for Prof. Willie Ocasio in Spring 2021
+             
+* *Leadership and Teams*
+              * for Prof. Matthew Kraatz in Fall 2020
+
+
 {% for course in site.data.courses %}
 <div class="row" name="{{ course.id }}">
   <div class="row-pic">
