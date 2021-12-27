@@ -25,7 +25,7 @@ group: pubs
         <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
       </a>
       <a href="{{ paper.link }}" target="_blank">
-        <span class="icon"><svg><use xlink:href="#icon-link"/></svg></span>
+        <span class="icon"><svg><use xlink:href="#icon-dblp"/></svg></span>
       </a>
       {% if paper.code %}
       <a href="{{ paper.code }}" target="_blank">
