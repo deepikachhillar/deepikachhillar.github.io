@@ -18,7 +18,7 @@ group: pubs
     </span> <br/>
     {% endif %}
     <div class="publication-title">
-      {{ paper.authors }}. {{ paper.title }}. <br/> {{ paper.venue }}
+      {{ paper.authors }}. {{ paper.title }}. <br/> <small> {{ paper.venue }} </small>
     </div>
     <div class="right">
       <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
