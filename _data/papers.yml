@@ -11,8 +11,6 @@
   authors: Deepika Chhillar, Geoffrey Love, Donald Sull, and Matthew Kraatz
   venue: European Group for Organizational Studies (EGOS) 
   year: 2021
-  pages:
-  doi:
   link: https://www.egos.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1610525130808&subtheme_id=1568872441736&show_prog=yes
 
 - id: governance
@@ -20,9 +18,7 @@
   authors: Deepika Chhillar, and Ruth Aguilera
   venue: Global Strategy and Emerging Markets (GSEM) Conference. Cornell University
   year: 2020
-  pages:
-  doi:
-  code: https://static1.squarespace.com/static/56eefd22859fd004540849e0/t/5fa58cb9bca7141c21b86f57/1604684987535/GSEM+Conference.pdf
+  link: https://static1.squarespace.com/static/56eefd22859fd004540849e0/t/5fa58cb9bca7141c21b86f57/1604684987535/GSEM+Conference.pdf
 
 - id: igreenminer
   title: "Energy Efficient Guidelines for iOS Core Location Framework"
