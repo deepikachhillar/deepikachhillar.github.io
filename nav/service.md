@@ -9,8 +9,8 @@ group: service
 
 {% assign thisYear = "now" | date: "%Y" | plus: 0 %}
 
-{% assign current = site.data.services | where_exp: "service", "service.year >= thisYear"%}
-{% assign past = site.data.services | where_exp: "service", "service.year < thisYear"%}
+{% assign current = site.data.services | where_exp: "service", "service.year >= 2019"%}
+{% assign past = site.data.services | where_exp: "service", "service.year < 2019"%}
 
  
 ### Current
