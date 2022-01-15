@@ -5,7 +5,7 @@ permalink: /teaching/
 weight: 2
 group: teaching
 ---
-I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My mid-term rating as an instructor was 4.25 and I thoroughly enjoyed class discussions with the students.
+I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My mid-term rating as an instructor was 4.25 and my final average rating was 4.43. I thoroughly enjoyed teaching this course.
 
 {% for course in site.data.courses %}
 <div class="row" name="{{ course.id }}">
