@@ -39,7 +39,7 @@ National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge In
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/richard_benton.jpeg" |  prepend: site.baseurl }}" alt="Richard Benton" />
 </figure>
-<span style="color: green;">*R2-D2:*</span> **Prof. Richard Benton** is an Associate Professor in the Labor and Economic Relations department at the University of Illinois, Urbana-Champaign. He is a tech guru besides other things, and a super valuable member of my doctoral journey (and committee). His genuine desire to see his students happy and successful and his "What else is new?" questions has saved me countless days of pondering over research problems in other chapters of my dissertation.\
+<span style="color: green;">*R2-D2:*</span> **Prof. Richard Benton** is an Associate Professor in the Labor and Economic Relations department at the University of Illinois, Urbana-Champaign. He is a tech guru besides other things, and a super valuable member of my doctoral journey (and committee). His genuine desire to see his students happy and successful and his "What else is new?" questions has saved me countless days of pondering over research problems.\
 **Affiliation**: University of Illinois, Urbana-Champaign\
 **Collaborative Work**: Turnover information from employee reviews.
 
