@@ -34,20 +34,19 @@ Below is a list of current and former research collaborators.
 **Collaborative Work**: Organizational Culture & Wrongdoing - A view through the Glassdoor\
 National Innovation Ecosystems in the G-20 Countries: Institutions, Knowledge Infrastructure, and Firm Capabilities
 
-<figure>
-	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/ruth_aguilera.jpg" |  prepend: site.baseurl }}" alt="Ruth Aguilera" />
-</figure>
 
-
-<span style="color: green;">*R2-D2:*</span> **Prof. Richard Benton** is an Associate Professor in the Labor and Economic Relations department at the University of Illinois, Urbana-Champaign. He is a tech guru besides other things, and a super valuable member of my doctoral journey (and committee). His genuine desire to see his students happy and successful and his "What else is new?" questions has saved me countless days of pondering over research problems in other chapters of my dissertation.\
-**Affiliation**: University of Illinois, Urbana-Champaign\
-**Collaborative Work**: Turnover information from employee reviews.
 
 <figure>
 	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/richard_benton.jpeg" |  prepend: site.baseurl }}" alt="Richard Benton" />
 </figure>
+<span style="color: green;">*R2-D2:*</span> **Prof. Richard Benton** is an Associate Professor in the Labor and Economic Relations department at the University of Illinois, Urbana-Champaign. He is a tech guru besides other things, and a super valuable member of my doctoral journey (and committee). His genuine desire to see his students happy and successful and his "What else is new?" questions has saved me countless days of pondering over research problems in other chapters of my dissertation.\
+**Affiliation**: University of Illinois, Urbana-Champaign\
+**Collaborative Work**: Turnover information from employee reviews.
 
 
+<figure>
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/collaborators/ruth_aguilera.jpg" |  prepend: site.baseurl }}" alt="Ruth Aguilera" />
+</figure>
 <span style="color: green;">*Obi-Wan Kenobi:*</span> My 'friend, philosopher and guide' in tough times, **Prof. Ruth Aguilera** is the Distinguished Darla and Frederick Brodsky Trustee Professor in Global Business at the D’Amore-McKim School of Business. Ruth has poured her advice generously as my first collaborator, shaped my style of work significiantly, and has taught me the ways of academic life.\
 **Affiliation**: Northeastern University\
 **Collaborative Work**: An Eye for AI: Insights into the Governance of Artificial Intelligence and Vision for Future Research.
