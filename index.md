@@ -9,6 +9,10 @@ I am a doctoral student in the Organizational Behavior and Strategy area at the 
 
 Below is a list of my current projects.
 
-### Current Projects
+### Working Papers
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
+
+
+### Published Articles
+{% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %} {% include projects.html data=inactive %}
