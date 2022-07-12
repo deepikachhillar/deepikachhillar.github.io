@@ -14,9 +14,10 @@
   collaborators: with Prof. Geoffrey Love, Prof. Donald Sull, & Prof. Matthew Kraatz
   description: Organizational culture is frequently identified as an important antecedent to wrongdoing by scholars as well as the popular media. However, organizational culture is not a monolithic entity, but is in fact, an amalgam of different elements (of shared expectations, assumptions, beliefs, and values) that influence actions. In this study, we investigate which elements of culture are most predictive of organizational wrongdoing. First, we use NLP to identify cultural norms and values from reviews posted on Glassdoor by employees of large public US-based firms. Then, we employ ML methods (combining XGboost and SHAP values) to identify cultural features that are the most salient predictors of deliberate financial wrongdoing. We find that organizations excessively favoring a culture of high workload, lacking the requisite resources (both human and capital), or having an unfriendly work environment, are more likely to engage in unethical behavior. Our paper aims to enhance our collective understanding of culture and wrongdoing literature in two main ways. First, we shed light on the values and norms that are essential in predicting fraudulent behavior, a link that, in our view, scholars have studied only limitedly. Secondly, by using ML techniques to understand cultural antecedents to wrongdoing, we aim to contribute to theory-building by algorithm-supported induction.
   
-- name: An Eye for AI - Insights into the Governance of Artificial Intelligence and Vision for Future Research (Published)
+- name: An Eye for AI - Insights into the Governance of Artificial Intelligence and Vision for Future Research (2022)
   id: governance
   start: 2019
+  end: 2022
   link: https://journals.sagepub.com/doi/10.1177/00076503221080959
 #   members: R. Aguilera
 #   papers: glassdoor
