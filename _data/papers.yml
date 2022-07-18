@@ -1,4 +1,13 @@
-- id: glassdoor
+- id: aauw
+  title: "Fellow, American Association for University Women"
+  # authors: Deepika Chhillar, Geoffrey Love, Donald Sull, and Matthew Kraatz
+ # venue: Berkeley Culture Conference
+  year: 2022
+#   pages: 97--118
+  link: https://www.aauw.org/resources/programs/fellowships-grants/
+  award: Awarded the AAUW fellowship of 20,000$
+  
+  - id: glassdoor
   title: "Organizational Culture and Wrongdoing - A view through the Glassdoor"
   authors: Deepika Chhillar, Geoffrey Love, Donald Sull, and Matthew Kraatz
   venue: Berkeley Culture Conference
