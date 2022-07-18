@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conferences & Awards
-permalink: /conferences/
+permalink: /conferences&awards/
 weight: 3
 group: pubs
 ---
