@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conferences
+title: Conferences & Awards
 permalink: /conferences/
 weight: 3
 group: pubs
