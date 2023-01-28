@@ -16,6 +16,6 @@ group: service
 ### Current
 {% include services.html data=current %}
 
-### Past
-{% include services.html data=past %}
+<!-- ### Past
+{% include services.html data=past %} -->
 
