@@ -27,7 +27,7 @@ paginate_path: /news/page:num/
 excerpt_separator: <!--more-->
 
 # Site-wide variables
-keywords: organizational culture, big data & AI, machine learning, institutional theory
+keywords: organizational purpose, organizational culture, institutional theory, big data & AI, machine learning
 copyright: Copyright (c) Deepika Chhillar
 
 # Plugins
