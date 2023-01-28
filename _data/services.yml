@@ -1,18 +1,23 @@
 # 2022
-- name: AMR
-  role: Ad-hoc (Bridge) Reviewer
-  year: 2020
+- name: Academy of Management Review
+  role: Reviewer
+  year: 2022
   website: https://journals.aom.org/journal/amr
 
-- name: AoM (Academy of Management)
+- name: Academy of Management
   role: Reviewer
   year: 2019
   website: https://aom.org/events/annual-meeting
 
-- name: BAS (Business & Society)
+- name: Business & Society
   role: Reviewer
   year: 2022
   website: https://journals.sagepub.com/home/bas
+  
+- name: Academy of Management Review
+  role: Ad-hoc (Bridge) Reviewer
+  year: 2020
+  website: https://journals.aom.org/journal/amr
   
 # - name: ICSE
 #   role: PC Member
