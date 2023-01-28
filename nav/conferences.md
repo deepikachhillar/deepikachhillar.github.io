@@ -18,7 +18,9 @@ group: pubs
     </span> <br/>
     {% endif %}
     <div class="publication-title">
+      {% if paper.venue %}
       {{ paper.venue }} <br/>
+      {% endif %}
       {{ paper.title }} <br/> <small> {{ paper.authors }} </small>
     </div>
     <div class="right">
