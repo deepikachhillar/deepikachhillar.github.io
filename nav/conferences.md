@@ -22,9 +22,11 @@ group: pubs
       {{ paper.title }} <br/> <small> {{ paper.authors }} </small>
     </div>
     <div class="right">
-      <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
+      {% if paper.pdf %}
+      <a href="{{ "/resources/papers/" | append: paper.pdf | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
         <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
       </a>
+      {% endif %}
       <a href="{{ paper.link }}" target="_blank">
         <span class="icon"><svg><use xlink:href="#icon-external-link"/></svg></span>
       </a>
