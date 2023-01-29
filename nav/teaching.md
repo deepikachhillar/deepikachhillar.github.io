@@ -6,7 +6,7 @@ weight: 2
 group: teaching
 ---
 <figure>
-	<img style="display=block" width="45%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
+	<img style="display=inline-block" width="45%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
 <figure>
