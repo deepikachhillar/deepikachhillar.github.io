@@ -9,7 +9,7 @@ group: teaching
 <figure>
 	<img style="display=inline" width="40%" src="{{ "/resources/images/courses/IMG_3923.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 
-	<img style="display=inline-block" width="40%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
+	<img style="display=inline" width="40%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
 I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My mid-term rating as an instructor was 4.25 and my final average rating was 4.43. I thoroughly enjoyed teaching this course.
