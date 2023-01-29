@@ -27,10 +27,10 @@
 - name: Organizational Purpose and Social Performance: Do actions speak louder than words?
   id: purpose
   start: 2021
-#   link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
+  link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
 #   members: G. Love,D. Sull, M. Kraatz
 #   papers: glassdoor
-#   collaborators: with Prof. Geoffrey Love, Prof. Matthew Kraatz, & Prof. Donald Sull
+  collaborators:  
   description: This paper examines how an organization’s declared and internalized ‘reason for existence’ (manifested as its mission or purpose) is related to its embodiment by internal members and overall organizational social performance. I argue that an organization’s purpose positions it along a continuum that represents the degree of alignment with the logic of social welfare. I test hypotheses related to these arguments using Glassdoor and ESG violations for S&P 500 firms over six years and find significant results that corroborate the hypotheses. Overall, this working paper aims to address the question of (whether and) how organizational purpose relates to organizational social performance.
   
 # - name: Just-in-Time Compilers
