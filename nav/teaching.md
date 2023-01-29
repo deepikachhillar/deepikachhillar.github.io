@@ -10,10 +10,6 @@ group: teaching
 	<img style="display=inline" width="40%" src="{{ "/resources/images/courses/IMG_3923.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
-<figure>
-	<img style="display=inline" width="60%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
-</figure>
-
 I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My mid-term rating as an instructor was 4.25 and my final average rating was 4.43. I thoroughly enjoyed teaching this course.
 
 {% for course in site.data.courses %}
@@ -34,3 +30,14 @@ I have also been a **Teaching Assistant** for the following courses:
              
 * *Leadership and Teams* for Prof. Matthew Kraatz in Fall 2020
 {% endfor %}
+
+<figure>
+	<img style="display=inline" width="60%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
+</figure>
+
+Here is an attempt to capture a memory of my first-cohort of students. They will always be special to me. Apparently, some of them enjoyed my class just as much. This is what they had to say:
+" Did amazing job with preparation and filled each class with perfect amount of content. I loved all the connections made to real life events from 2021 as It added immersion."
+" I enjoyed this instructor a great deal, she was awesome and always offered great instruction and feedback."
+" Deepika was very passionate about course content and seemed to have extensive knowledge on the topics. This made asking questions comfortable and always warranted an elaborate response."
+But the best one was... " She really cares" 
+
