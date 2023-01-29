@@ -9,7 +9,7 @@ group: teaching
 	<img style="display=block" width="45%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
-</figure>
+<figure>
 	<img style="display=block" width="45%" src="{{ "/resources/images/courses/IMG_3923.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
