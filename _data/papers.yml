@@ -1,11 +1,11 @@
 - id: aauw
   title: "Fellow, American Association for University Women"
-  authors: AAUW
+  authors: AAUW Fellow
 #   venue: Berkeley Culture Conference
   year: 2022
 #   pages: 97--118
   link: https://www.aauw.org/resources/programs/fellowships-grants/
-  award: Awarded the AAUW fellowship of 20000 USD
+  award: Awarded a scholarship of 20,000$ from AAUW 
   
 - id: glassdoor
   title: "Organizational Culture and Wrongdoing - A view through the Glassdoor"
