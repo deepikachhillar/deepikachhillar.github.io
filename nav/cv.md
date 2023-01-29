@@ -4,9 +4,13 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-I am currently a doctoral student in the Department of Business Administration at the University of Illinois, Urbana-Champaign. I am also a current [AAUW fellow](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank}. Prior to that, I spent 5 years in the industry working with Credit Suisse AG, Schlumberger Ltd., and an ed-tech startup firm. 
+I am a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign. I plan to major in Organizational Theory and minor in Strategy. I am a recipient of the [AAUW fellowship] for academic year 2021-2022(https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"}. 
 
-I received my bachelors in computer science engineering and masters in economics from [BITS Pilani University](https://www.bits-pilani.ac.in/){:target="_blank"}. I also learnt about the wonderful world of liberal arts at [Ashoka University](https://www.ashoka.edu.in/){:target="_blank"}.
+My research draws on my professional experience where I spent five years working with Credit Suisse AG, Schlumberger Ltd., and 9.9 Education. 
+
+In addition to my engineering degree in Computer Science from BITS Pilani University [BITS Pilani University](https://www.bits-pilani.ac.in/){:target="_blank"}, I also hold a Masters in Economics from the same institution.
+
+I received my bachelors in computer science engineering and masters in economics from [BITS Pilani University](https://www.bits-pilani.ac.in/){:target="_blank"}, and learnt about the wonderful world of liberal arts at [Ashoka University](https://www.ashoka.edu.in/){:target="_blank"}.
 
 <!-- Just before moving to Germany, I finished my Ph.D. studies under the supervision of [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/){:target="_blank"} in the [Programming Languages Group](https://plg.uwaterloo.ca/){:target="_blank"} at the University of Waterloo. You can find my thesis: **The Separate Compilation Assumption** [here](http://hdl.handle.net/10012/8835){:target="_blank"}.
 
