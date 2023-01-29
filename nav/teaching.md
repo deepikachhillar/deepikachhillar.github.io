@@ -31,13 +31,13 @@ I have also been a **Teaching Assistant** for the following courses:
 * *Leadership and Teams* for Prof. Matthew Kraatz in Fall 2020
 {% endfor %}
 
+Here is an attempt to capture a memory of my first-cohort of students. This is what they had to say:
 <figure>
 	<img style="display=inline" width="60%" src="{{ "/resources/images/courses/IMG_3911.png" |  prepend: site.baseurl }}" alt="Class Picture" />
 </figure>
 
-Here is an attempt to capture a memory of my first-cohort of students. This is what they had to say:\
 *" She did an amazing job with preparation and filled each class with perfect amount of content. I loved all the connections made to real life events from 2021 as it added immersion."\
 " I enjoyed this instructor a great deal, she was awesome and always offered great instruction and feedback."\
 " Deepika was very passionate about course content and seemed to have extensive knowledge on the topics. This made asking questions comfortable and always warranted an elaborate response."*\
-And yet the best one was... *" She really cares"*.
+And yet the best one was... *" She really cares."*.
 
