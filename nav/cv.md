@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-I am a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign. I plan to major in Organizational Theory and minor in Strategy. I am a recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for academic year 2021-2022. 
+As a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign, I aim to graduate with a major in Organizational Theory and a minor in Strategy. I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2021-2022.
 
 My research draws on my professional experience where I spent five years working with Credit Suisse AG, Schlumberger Ltd., and 9.9 Education. 
 
