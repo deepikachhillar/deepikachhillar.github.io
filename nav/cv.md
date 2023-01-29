@@ -4,11 +4,9 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-I am a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign. I plan to major in Organizational Theory and minor in Strategy. I am a recipient of the [AAUW fellowship] for academic year 2021-2022(https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"}. 
+I am a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign. I plan to major in Organizational Theory and minor in Strategy. I am a recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for academic year 2021-2022. 
 
 My research draws on my professional experience where I spent five years working with Credit Suisse AG, Schlumberger Ltd., and 9.9 Education. 
-
-In addition to my engineering degree in Computer Science from BITS Pilani University [BITS Pilani University](https://www.bits-pilani.ac.in/){:target="_blank"}, I also hold a Masters in Economics from the same institution.
 
 I received my bachelors in computer science engineering and masters in economics from [BITS Pilani University](https://www.bits-pilani.ac.in/){:target="_blank"}, and learnt about the wonderful world of liberal arts at [Ashoka University](https://www.ashoka.edu.in/){:target="_blank"}.
 
