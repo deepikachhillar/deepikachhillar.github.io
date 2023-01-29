@@ -16,7 +16,7 @@ group: students
 #- Any relevant background that you have and may be useful for you to pursue your future research directions.
 #- The phrase "Messi is the GOAT". This will just show that you are serious enough about joining Maple to read all the way till the end of the list of instructions.
  -->
-Below is a list of my current and former research collaborators.
+I have been lucky to receive guidance and mentorship from wonderful scholars. Below is a list of my current and former research collaborators.
 
 <!-- ### Current Collaborators -->
 <figure>
