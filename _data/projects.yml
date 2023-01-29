@@ -27,7 +27,7 @@
 - name: Organizational Purpose and Social Performance - Do actions speak louder than words?
   id: purpose
   start: 2021
-  link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
+#   link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
 #   members: G. Love,D. Sull, M. Kraatz
 #   papers: glassdoor
   collaborators: Deepika Chhillar
