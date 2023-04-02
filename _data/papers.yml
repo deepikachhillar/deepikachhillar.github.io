@@ -1,12 +1,3 @@
-- id: aauw
-  title: "Fellow, American Association for University Women"
-  authors: AAUW Fellow
-#   venue: Berkeley Culture Conference
-  year: 2022
-#   pages: 97--118
-  link: https://www.aauw.org/resources/programs/fellowships-grants/
-  award: AAUW Scholarship (20,000$)
-  
 - id: erley
   title: "Richard A. Erley Fellowship"
   authors: Gies College of Business, UIUC
@@ -15,6 +6,15 @@
 #   pages: 97--118
   link: https://giesbusiness.illinois.edu/graduate-hub/doctoral/finance/phd-in-finance---financial-assistance
   award: Richard A. Erley Fellowship Award (5000$)
+  
+- id: aauw
+  title: "Fellow, American Association for University Women"
+  authors: AAUW Fellow
+#   venue: Berkeley Culture Conference
+  year: 2022
+#   pages: 97--118
+  link: https://www.aauw.org/resources/programs/fellowships-grants/
+  award: AAUW Scholarship (20,000$)
   
 - id: glassdoor
   title: "Organizational Culture and Wrongdoing - A view through the Glassdoor"
