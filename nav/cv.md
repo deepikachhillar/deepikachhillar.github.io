@@ -6,7 +6,7 @@ weight: 6
 ---
 You can find my CV [here][cvpdf]{:target="_blank"}.
 
-[cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
+[cvpdf]: {{ "/resources/docs/Deepika Chhillar_CV_Spring 2023.pdf" | prepend: site.baseurl }}
 As a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign, I aim to graduate with a major in Organizational Theory and a minor in Strategy in the *summer of 2024*. 
 
 My research interests include understanding organizational purpose, analyzing the cultural life of organizations, institutional analysis, and the governing role of institutions in context of AI-adoption. My research draws on my professional experience where I spent five years working with [Credit Suisse AG](https://www.credit-suisse.com/us/en.html){:target="_blank"} , [Schlumberger Ltd.](https://www.slb.com/){:target="_blank"} , and [9dot9 Education](https://www.9dot9.education/){:target="_blank"}.
