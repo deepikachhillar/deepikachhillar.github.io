@@ -7,8 +7,7 @@ group: teaching
 ---
 
 
-I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My mid-term rating as an instructor was 4.25 and my final average rating was 4.43. I thoroughly enjoyed teaching this course. 
-And looks like the students did as well:
+I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My final average rating was 4.37. I thoroughly enjoyed teaching this course and looks like the students did as well:
 ![image](https://github.com/deepikachhillar/deepikachhillar.github.io/assets/58666758/9f2cf8e7-0930-498d-a5a6-b11aa270d573)
 
 {% for course in site.data.courses %}
