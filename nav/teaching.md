@@ -13,6 +13,8 @@ I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week cou
 </figure>
 
 And looks like the students did as well:
+![image](https://github.com/deepikachhillar/deepikachhillar.github.io/assets/58666758/9f2cf8e7-0930-498d-a5a6-b11aa270d573)
+
 "![image](https://github.com/deepikachhillar/deepikachhillar.github.io/assets/58666758/9bfaf8da-d211-4e65-8dac-4bea49edfd91)"
 
 
