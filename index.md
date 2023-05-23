@@ -5,7 +5,7 @@ weight: 1
 group: research
 ---
 
-I am a doctoral candidate in the **Organizational Theory & Strategy** area at the [Gies School of Business](https://giesbusiness.illinois.edu/){:target="_blank"}, **University of Illinois, Urbana-Champaign**. I will be on the 2023-24 academic job market. 
+I am a doctoral candidate in the **Organizational Theory & Strategy** area at the [Gies School of Business](https://giesbusiness.illinois.edu/){:target="_blank"}, **University of Illinois, Urbana-Champaign**.
 
 I completed my Masters in **Economics** and BE in **Computer Science** from [BITS Pilani University, India](https://www.bits-pilani.ac.in/){:target="_blank"}. 
 
