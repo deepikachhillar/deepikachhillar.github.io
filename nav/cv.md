@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-## You can find my CV [here][cvpdf]{:target="_blank"}.
+# You can find my CV [here][cvpdf]{:target="_blank"}.
 
 [cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
 As a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign, I aim to graduate with a major in Organizational Theory and a minor in Strategy in the *summer of 2024*. 
