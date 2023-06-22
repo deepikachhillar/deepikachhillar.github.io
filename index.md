@@ -14,10 +14,10 @@ My research interests include understanding organizational purpose, analyzing th
 Below is a list of my published articles and current projects.
 
 ### Published Articles
-{% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %} {% include projects.html data=inactive %}
+{% assign inactive = site.data.projects | where_exp: "project", "project.end == 2022" %} {% include projects.html data=inactive %}
 
 ### Manuscripts under Review
-{% assign current = site.data.projects | where_exp: "project", "project.end == Jun 2023" %}
+{% assign current = site.data.projects | where_exp: "project", "project.end == 2023" %}
 {% include projects.html data=current %}
 
 ### Working Papers
