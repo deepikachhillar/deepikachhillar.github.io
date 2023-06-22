@@ -16,6 +16,10 @@ Below is a list of my published articles and current projects.
 ### Published Articles
 {% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %} {% include projects.html data=inactive %}
 
+### Manuscripts under Review
+{% assign current = site.data.projects | where_exp: "project", "project.end == Jun 2023" %}
+{% include projects.html data=current %}
+
 ### Working Papers
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
