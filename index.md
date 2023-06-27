@@ -7,7 +7,9 @@ group: research
 
 I am a doctoral candidate in the **Organizational Theory & Strategy** area at the [Gies School of Business](https://giesbusiness.illinois.edu/){:target="_blank"}, **University of Illinois, Urbana-Champaign**.
 
-My main research stream examines how organizations can become socially responsible towards their stakeholders, especially as they navigate the demands of existential modernism and upholding ethics. I draw on theoretical traditions in organizational theory, strategic management, and artificial intelligence. Across the breadth of my research, I seek to address existential concerns about humanistic futures for organizations and the economy. These concerns relate to the potential diminishing importance of human-centered values, principles, and aspirations in the context of organizational and economic systems. I draw from a toolkit of computational and quantitative methods and hope to contribute to the field through the spirit of engaged scholarship.
+I completed my Masters in **Economics** and BE in **Computer Science** from [BITS Pilani University, India](https://www.bits-pilani.ac.in/){:target="_blank"}. 
+
+I am a doctoral candidate at the Gies College of Business, University of Illinois, Urbana Champaign. My main research stream examines how organizations can become socially responsible towards their stakeholders, especially as they navigate the demands of existential modernism and upholding ethics. I draw on theoretical traditions in organizational theory, strategic management, and artificial intelligence. Across the breadth of my research, I seek to address existential concerns about humanistic futures for organizations and the economy. These concerns relate to the potential diminishing importance of human-centered values, principles, and aspirations in the context of organizational and economic systems. I draw from a toolkit of computational and quantitative methods and hope to contribute to the field through the spirit of engaged scholarship.
 
 Below is a list of my published articles and current projects.
 
