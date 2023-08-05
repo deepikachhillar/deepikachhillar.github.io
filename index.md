@@ -7,7 +7,7 @@ group: research
 
 I am a doctoral candidate in the **Organizational Theory & Strategy** area at the [Gies School of Business](https://giesbusiness.illinois.edu/){:target="_blank"}, **University of Illinois, Urbana-Champaign**. 
 
-I am a management scholar who examines the competing organizational demands between financial performance and social responsibility using computational science. I aim to contribute to our theoretical understanding of organizational strategies that promote sustainable and responsible business practices. My current work focuses on **organizational purpose** and **culture** whereby I analyze textual data from [Glassdoor](https://www.glassdoor.com/member/home/index.htm){:target="_blank}.
+I am a management scholar who examines the competing organizational demands between financial performance and social responsibility using computational science. My current work focuses on **organizational purpose** and **culture** whereby I analyze textual data from [Glassdoor](https://www.glassdoor.com/member/home/index.htm){:target="_blank}.
 
 Below is a list of my published articles and current projects.
 
