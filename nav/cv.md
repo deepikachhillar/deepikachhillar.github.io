@@ -7,7 +7,7 @@ weight: 6
 ### You can find my CV [here][cvpdf]{:target="_blank"}.
 
 [cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
-As a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign, I aim to graduate with a major in Organizational Theory and a minor in Strategy in the *summer of 2024*. 
+As a doctoral candidate in the Department of Business Administration at the University of Illinois, Urbana-Champaign, I aim to graduate with a major in Organizational Theory and a minor in Strategy in the summer of 2024. 
 
 <!-- My research interests include understanding organizational purpose, analyzing the cultural life of organizations, institutional analysis, and the governing role of institutions in context of AI-adoption. -->
 
