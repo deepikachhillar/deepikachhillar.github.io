@@ -2,7 +2,7 @@
 layout: default
 title: CV
 permalink: /cv/
-weight: 2
+weight: 6
 ---
 ### You can find my CV [here][cvpdf]{:target="_blank"}.
 
