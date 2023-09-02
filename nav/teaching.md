@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-weight: 2
+weight: 3
 group: teaching
 ---
 
