@@ -2,7 +2,7 @@
 layout: default
 title: Conferences & Awards
 permalink: /conferences&awards/
-weight: 3
+weight: 2
 group: pubs
 ---
 
