@@ -5,6 +5,7 @@ permalink: /cv/
 weight: 6
 ---
 ### You can find my CV [here][cvpdf]{:target="_blank"}.
+[cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
 
 I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
 
