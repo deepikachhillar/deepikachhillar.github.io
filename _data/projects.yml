@@ -33,7 +33,7 @@
   
 - name: Organizational Purpose and Social Performance - Do actions speak louder than words?
   id: purpose
-  start: 2022
+  start: 2023
   end: 2025
   collaborators: Deepika Chhillar
   description: In this working paper, I empirically measure and explore the connections between organizational purpose and corporate social performance. The study aims to investigate whether firms that possess a profound sense of purpose are more inclined to demonstrate social responsibility, while also examining the factors that influence this relationship. To assess corporate social performance, I utilize the RepRisk dataset, which captures a firm's environmental, social, and governance (ESG) violations. The preliminary findings of this study indicate that organizations whose employees experience a deep sense of purpose, i.e., widespread and sustained employee experience of purpose, display more socially responsible organizational behavior over time. Additionally, ESG violations, especially on the part of leadership, can dampen the sense of purpose experienced by employees. The results highlight how organizations’ social responsibility and purpose-driven management are co-constituted.
