@@ -19,3 +19,7 @@ I use computational science to examine how firms balance competing organizationa
 ### Working Papers
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
+
+### Work in Progress
+{% assign current = site.data.projects | where_exp: "project", "project.start == 2023" %}
+{% include projects.html data=current %}
