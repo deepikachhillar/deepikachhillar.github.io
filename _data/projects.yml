@@ -31,12 +31,9 @@
   collaborators: Deepika Chhillar
   description: The concept of purpose has been receiving significant attention in the management discourse, due to its potential to address various organizational challenges. Purpose is both a superordinate goal encompassing multiple stakeholders’ nonfinancial objectives and an internal managerial tool to foster engagement and motivation. Yet there has been limited empirical research on purpose claims, employees’ experience of purpose, and the relationship between the two. This paper investigates factors that influence employees experience of purpose and presents a systematic analysis of purpose claims and experience in large US-based public firms (S&P 500) over six years (2015–2020). It draws from Glassdoor data (textual analysis), Wayback Machine (archival data), RepRisk data, and 10-k reports. Employees of organizations that emphasize prosocial values and engage in fewer ESG violations are more likely to experience purpose, suggesting the significance of aligning corporate action with social and ethical goals. Investigating these dynamics contributes to a deeper understanding of how organizational and leaders’ actions shape individuals' experiences of purpose, ultimately informing strategies for fostering meaningful and purposeful work environments.
   
-- name: Are Purposeful Firms Socially Responsible? A Longitudinal Study of S&P 500 Firms
+- name: Organizational Purpose and Social Performance - Do actions speak louder than words?
   id: purpose
   start: 2023
-#   link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
-#   members: G. Love,D. Sull, M. Kraatz
-#   papers: glassdoor
   collaborators: Deepika Chhillar
   description: In this working paper, I empirically measure and explore the connections between organizational purpose and corporate social performance. The study aims to investigate whether firms that possess a profound sense of purpose are more inclined to demonstrate social responsibility, while also examining the factors that influence this relationship. To assess corporate social performance, I utilize the RepRisk dataset, which captures a firm's environmental, social, and governance (ESG) violations. The preliminary findings of this study indicate that organizations whose employees experience a deep sense of purpose, i.e., widespread and sustained employee experience of purpose, display more socially responsible organizational behavior over time. Additionally, ESG violations, especially on the part of leadership, can dampen the sense of purpose experienced by employees. The results highlight how organizations’ social responsibility and purpose-driven management are co-constituted.
   
