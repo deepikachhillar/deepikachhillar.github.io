@@ -9,7 +9,7 @@ weight: 6
 
 I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
 
-In my spare time I enjoy running, painting, and watching Formula1 races.
+In my spare time I enjoy running, hiking, and playing board games.
 
 <!-- Just before moving to Germany, I finished my Ph.D. studies under the supervision of [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/){:target="_blank"} in the [Programming Languages Group](https://plg.uwaterloo.ca/){:target="_blank"} at the University of Waterloo. You can find my thesis: **The Separate Compilation Assumption** [here](http://hdl.handle.net/10012/8835){:target="_blank"}.
 
