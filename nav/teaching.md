@@ -7,7 +7,7 @@ group: teaching
 ---
 
 
-I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week course). My final average rating was 4.37. I thoroughly enjoyed teaching this course and looks like the students did as well:
+I have been an instructor for a full-semester (17-week) course in Fall 2021 - BADM 313, Strategic Human Resource Management. I thoroughly enjoyed teaching this course and looks like the students did as well:
 ![image](https://github.com/deepikachhillar/deepikachhillar.github.io/assets/58666758/9f2cf8e7-0930-498d-a5a6-b11aa270d573)
 
 {% for course in site.data.courses %}
@@ -23,11 +23,6 @@ I taught BADM 313, Strategic Human Resource Management in Fall 2021 (17-week cou
 	</div>
 </div>
 
-I have also been a **Teaching Assistant** for the following courses: 
-* *Leading and Managing Purpose-Driven Organizations* for Prof. Willie Ocasio in Spring 2021
-             
-* *Leadership and Teams* for Prof. Matthew Kraatz in Fall 2020
-{% endfor %}
 
 <figure>
 	<img style="display=inline" width="40%" src="{{ "/resources/images/courses/IMG_3923.png" |  prepend: site.baseurl }}" alt="Class Picture" />
@@ -43,3 +38,8 @@ Here is an attempt to capture a memory of my first-cohort of students.
 " Deepika was very passionate about course content and seemed to have extensive knowledge on the topics. This made asking questions comfortable and always warranted an elaborate response."*\
 And yet the best one was... *" She really cares."*.
 
+I have also been a **Teaching Assistant** for the following courses: 
+* *Leading and Managing Purpose-Driven Organizations* for Prof. Willie Ocasio in Spring 2021
+             
+* *Leadership and Teams* for Prof. Matthew Kraatz in Fall 2020
+{% endfor %}
