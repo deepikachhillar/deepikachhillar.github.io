@@ -9,7 +9,7 @@ weight: 6
 
 I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
 
-Here is a recent media coverage of my article (co-authored with Ruth Aguilera) on the Governance of AI: https://youtu.be/W0ET5qAV9Mg?si=NPscsSypFIS5caoh&t=2152
+Here is a recent [media coverage](https://youtu.be/W0ET5qAV9Mg?si=NPscsSypFIS5caoh&t=2152){:target="_blank"} of my article (co-authored with Ruth Aguilera) on the Governance of AI
 
 <!-- Just before moving to Germany, I finished my Ph.D. studies under the supervision of [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/){:target="_blank"} in the [Programming Languages Group](https://plg.uwaterloo.ca/){:target="_blank"} at the University of Waterloo. You can find my thesis: **The Separate Compilation Assumption** [here](http://hdl.handle.net/10012/8835){:target="_blank"}.
 
