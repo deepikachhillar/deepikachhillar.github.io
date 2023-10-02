@@ -9,9 +9,11 @@ weight: 6
 
 I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
 
-In my spare time I enjoy running, hiking, and painting.
+Here is a recent media coverage of my article (co-authored with Ruth Aguilera) on the Governance of AI: https://youtu.be/W0ET5qAV9Mg?si=NPscsSypFIS5caoh&t=2152
 
 <!-- Just before moving to Germany, I finished my Ph.D. studies under the supervision of [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/){:target="_blank"} in the [Programming Languages Group](https://plg.uwaterloo.ca/){:target="_blank"} at the University of Waterloo. You can find my thesis: **The Separate Compilation Assumption** [here](http://hdl.handle.net/10012/8835){:target="_blank"}.
 
 Prior to that, I received my MMath degree at the University of Waterloo in 2010 when I was part of the Security Research Group led by [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca/index.html){:target="_blank"}.
+
+In my spare time I enjoy running, hiking, and painting.
  -->
