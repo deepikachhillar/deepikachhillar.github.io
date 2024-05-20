@@ -5,7 +5,8 @@
 #  link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
 #   members: G. Love,D. Sull, M. Kraatz
 #   papers: glassdoor
-  collaborators: Deepika Chhillar, Geoffrey Love, & Matthew Kraatz
+#  collaborators: Deepika Chhillar, Geoffrey Love, & Matthew Kraatz
+  collaborators: Deepika Chhillar
   description: This study investigates how cultures of firms that engage in wrongdoing differ from those that do not. Our novel approach of comprehensively capturing the multifaceted nature of culture and identifying its implicit associations with deliberate wrongdoing helps develop new insights into this relationship. Specifically, we measure wrongdoing via financial restatements and litigations, and draw on employee accounts of organizational life from reviews posted on Glassdoor to measure cultural features. Using a machine-learning approach, we examine data obtained from more than 450 large US-based public firms over a six-year period. Through abductive analysis, we identify four cultural themes that are strongly associated with wrongdoing. The resulting insights aid in building and testing theory, offer warning signs for practitioners, and can guide the discovery of causal forces.
   
 - name: An Eye for AI - Insights into the Governance of Artificial Intelligence and Vision for Future Research (2022)
