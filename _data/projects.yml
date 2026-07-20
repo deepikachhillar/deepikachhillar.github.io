@@ -1,7 +1,6 @@
 - name: Cultural Conundrums - Unveiling Implicit Associations Between Organizational Cultures and Wrongdoing (Title altered for peer review)
   id: glassdoor
   start: 2019
-  end: 2023
 #  link: https://deepikachhillar.github.io/resources/papers/glassdoor.pdf
 #   members: G. Love,D. Sull, M. Kraatz
 #   papers: glassdoor
@@ -43,7 +42,6 @@
 - name: AI & the boundaries of the firm
   id: tce
   start: 2019
-  end: 2025
   collaborators: Deepika Chhillar & Joseph T. Mahoney
   description: This paper asks how artificial intelligence changes one of the oldest questions in strategy and organizational economics: where should the boundaries of the firm be drawn? Traditionally, we think of this as the make-or-buy decision—what should a firm own internally, and what should it contract for externally? Our argument is that AI changes this question because it changes the very conditions under which coordination happens.
 # - name: Just-in-Time Compilers
