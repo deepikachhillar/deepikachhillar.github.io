@@ -7,7 +7,7 @@ group: teaching
 ---
 
 
-I have been an instructor for a full-semester (17-week) course in Fall 2021 - BADM 313, Strategic Human Resource Management. I thoroughly enjoyed teaching this course and looks like the students did as well:
+I have been an instructor for undergraduate courses at Daniels, where I teach Leading High Performance Organizations in the Department of Management. I have also taught a full-semester (17-week) course in Fall 2021 - BADM 313, Strategic Human Resource Management at the University of Illinois. I thoroughly enjoyed teaching this course and looks like the students did as well:
 ![image](https://github.com/deepikachhillar/deepikachhillar.github.io/assets/58666758/9f2cf8e7-0930-498d-a5a6-b11aa270d573)
 
 {% for course in site.data.courses %}
