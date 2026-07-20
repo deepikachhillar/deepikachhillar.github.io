@@ -4,14 +4,14 @@ url: https://deepikachhillar.github.io/ # the base hostname & protocol for your 
 
 # User settings
 title: Deepika Chhillar
-email: deepika4 [at] illinois.edu
+email: deepika.chhillar [at] du.edu
 group: Organizational Theory & Strategy
 groupweb: https://giesbusiness.illinois.edu/profile/deepika-chhillar
 dept: Business Administration
-deptweb: https://giesbusiness.illinois.edu/graduate-hub/doctoral/business-administration
-institution: University of Illinois, Urbana-Champaign
-institutionweb: https://giesbusiness.illinois.edu/
-address: 1206 S. Sixth Champaign, IL 61820
+deptweb: https://daniels.du.edu/directory/deepika-chhillar/
+institution: University of Denver
+institutionweb: https://daniels.du.edu/
+address: 2101 S. University Blvd., Denver, CO 80208
 twitter: DeepikaChhillar
 github: deepikachhillar
 #dblp: 
@@ -27,7 +27,7 @@ paginate_path: /news/page:num/
 excerpt_separator: <!--more-->
 
 # Site-wide variables
-keywords: organizational purpose, organizational culture, institutional theory, big data & AI, machine learning
+keywords: Governance of AI, organizational purpose, culture, stakeholder theory
 copyright: Copyright (c) Deepika Chhillar
 
 # Plugins
