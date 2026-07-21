@@ -7,7 +7,7 @@ weight: 6
 ### You can find my CV [here][cvpdf]{:target="_blank"}.
 [cvpdf]: {{ "/resources/docs/deepika-cv.pdf" | prepend: site.baseurl }}
 
-I am a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
+I am among the top 5 TIM Best Dissertation Award finalist for 2026 and a proud recipient of the [AAUW fellowship](https://www.aauw.org/resources/programs/fellowships-grants/){:target="_blank"} for the academic year 2022-2023.
 
 Here is a recent [media coverage](https://youtu.be/W0ET5qAV9Mg?si=HDb1P_irj7VNt1uK&t=2240){:target="_blank"} of my article (co-authored with Ruth Aguilera) on the Governance of AI
 
