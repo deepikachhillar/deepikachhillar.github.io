@@ -1,4 +1,4 @@
-  - id: tim
+- id: tim
   title: "TIM Best Dissertation Award"
   authors: TIM
 #   venue: Berkeley Culture Conference
@@ -7,7 +7,7 @@
   link: https://tim.aom.org/awards-and-recognition
   award: TIM Best Dissertation Award (Top 5 finalist)
   
-  - id: frf
+- id: frf
   title: "FRF Research Grant"
   authors: University of Denver
 #   venue: Berkeley Culture Conference
@@ -16,7 +16,7 @@
   link: https://www.du.edu/facsen/awards-grants/faculty-research-fund
   award: FRF Research Award (3000$)
   
-  - id: erley
+- id: erley
   title: "Richard A. Erley Fellowship"
   authors: Gies College of Business, UIUC
 #   venue: Berkeley Culture Conference
