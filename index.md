@@ -5,13 +5,13 @@ weight: 1
 group: research
 ---
 
-## I am an Assistant Professor of Management at the Daniels College of Business, University of Denver. My research sits at the intersection of strategic human resource management and digital governance. I hold a Ph.D. in Business Administration from the Gies College of Business, University of Illinois Urbana-Champaign, and dual degrees in Economics and Computer Science Engineering from BITS Pilani University.
+#### I am an Assistant Professor of Management at the Daniels College of Business, University of Denver. My research sits at the intersection of strategic human resource management and digital governance. I hold a Ph.D. in Business Administration from the Gies College of Business, University of Illinois Urbana-Champaign, and dual degrees in Economics and Computer Science Engineering from BITS Pilani University.
 
-## Prior to academia, I worked across firms in roles spanning leadership development, advanced analytics, and market risk analysis. 
+#### Prior to academia, I worked across firms in roles spanning leadership development, advanced analytics, and market risk analysis. 
 
-## Below is a list of academic work that reflects my ongoing research agenda, including peer-reviewed publications, and works in progress.
+#### Below is a list of academic work that reflects my ongoing research agenda, including peer-reviewed publications, and works in progress.
 
-## Published Articles
+### Published Articles
 {% assign inactive = site.data.projects | where_exp: "project", "project.end == 2022" %} {% include projects.html data=inactive %}
 
 ### Manuscripts under Review
